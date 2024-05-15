@@ -1,0 +1,32 @@
+:root {
+  /* just color */
+  --base-c-dark: rgba(60, 60, 60, 0.66);
+  --base-c-dark-heavy: #000;
+
+  --base-c-gray: rgba(235, 235, 235, 0.64);
+  --base-c-deep-gray: rgb(230, 230, 230);
+
+  --base-c-white: #ffffff;
+  --base-c-white-soft: #f8f8f8;
+  --base-c-white-mute: #f2f2f2;
+
+  --base-c-red-soft: #d92804;
+
+  --base-c-yellow: #ff0;
+
+  --base-c-indigo: #2c3e50;
+
+  --base-c-lightblue: #5db3fe;
+  --base-c-lightblue2: rgb(184, 233, 249);
+
+  /* 线 */
+  --normal-c-line-dark: var(--base-c-dark);
+  --normal-c-line-indigo: var(--base-c-indigo);
+
+  /* 字体颜色 */
+  --normal-c-font-dark: var(--base-c-dark);
+  --normal-c-font-gray: var(--base-c-gray);
+
+  /* active颜色 */
+  --normal-c-bg-lightblue: var(--base-c-lightblue);
+}
